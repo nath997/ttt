@@ -3,7 +3,7 @@
 #include<conio.h>
 #include<string.h>
 #include<iomanip>
-#include"console.h"
+
 
 using namespace std;
 
